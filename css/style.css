@@ -1,0 +1,41 @@
+.honda-bg-info {
+    background-color: #264653;
+}
+
+.modal-btn-primary {
+    background-color: #E76F51;
+}
+
+.text-color {
+    color: #E76F51;
+}
+
+.gray-bike img {
+    filter: grayscale(100%);
+}
+
+span {
+    color: orangered;
+}
+
+.client-circle {
+    width: 306px;
+    height: 306px;
+    border-radius: 50%;
+}
+
+.icon {
+    color: orange;
+}
+
+.honda-btn-buy-now {
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background: linear-gradient(180deg, orange -0.01%, orangered 99.99%);
+}
+
+.honda-bg-primary {
+    background-color: #FEEAE9;
+}
